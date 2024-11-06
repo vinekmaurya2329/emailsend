@@ -42,7 +42,7 @@ function SignUp() {
                 <i class="ri-lock-fill"> | </i>
                 <input type="text" onChange={(e)=>setPassword(e.target.value)}   name='password' placeholder='Address' />
             </div>
-            <button type='submit' className='signUp-btn'>Send request</button>
+            <button type='submit' className='signUp-btn'>Request Account Deletion</button>
            </div>
            </form>
         </div>
